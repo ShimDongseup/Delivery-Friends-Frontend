@@ -34,8 +34,8 @@
 
 |       FE 심동섭       |                                                               FE 이정호                                                                |          BE 조재환           |
 | :-------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------: |
-|                       | <img src="https://user-images.githubusercontent.com/62597615/210386762-cc51917d-868c-4cf8-8ca9-f144a67d9fc2.png" height=180 width=180> |                              |
-|                       |                                    🙋 팀원<br/> 🔗 [LeeJeongHooo](https://github.com/LeeJeongHooo)                                     |                              |
+|<img src="https://github.com/user-attachments/assets/341cf1f2-af10-4dd6-bb55-2c59b0014b33" height=180 width=180>|<img src="https://user-images.githubusercontent.com/62597615/210386762-cc51917d-868c-4cf8-8ca9-f144a67d9fc2.png" height=180 width=180>|                              |
+|🙋 팀원<br/> 🔗 [ShimDongseup](https://github.com/ShimDongseup)|         🙋 팀원<br/> 🔗 [LeeJeongHooo](https://github.com/LeeJeongHooo)|                              |
 | 디자인 및 피그마 제작 |                                                     프로젝트 기획 및 진행, 문서화                                                      | 기술 문제 해결과 최적화 집중 |
 
 ## 3. <span id = "project">프로젝트 구조</span>
